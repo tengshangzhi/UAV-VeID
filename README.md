@@ -26,5 +26,8 @@ The UAV-VeID dataset is split to the training set, validation set and testing se
 The validation set is further divided into a query set ("val_q_label.txt" 3,554 images) and a gallery set ("val_g_label.txt" 596 images). 
 The testing set is further divided into a query set ("test_q_label.txt" 16,850 images) and a gallery set ("test_g_label.txt" 2,208 images). 
 
-# 4.Contactor
+# 4.Download
+Please sign the Agreement and thereby agrees to observe the restrictions listed in this document. After filling it, please send the electrical version to us. After confirming your information, we will send the download link and password to you via Email.
+
+# 5.Contactor
 Shangzhi Teng, Email: tengshangzhi@126.com
