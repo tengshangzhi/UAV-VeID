@@ -1,6 +1,12 @@
 # UAV-VeID
 "Teng, S., Zhang, S., Huang, Q. et al. Viewpoint and Scale Consistency Reinforcement for UAV Vehicle Re-Identification. Int J Comput Vis 129, 719–735 (2021)." https://doi.org/10.1007/s11263-020-01402-2
 
+
+<div align="center">
+  <img src="figures/uav-veid.jpg" width="700px" />
+</div>
+
+
 # 1.Data Collection
 We simulate real scenarios as much as possible during the UAV videos collection. 
 Specifically, UAV videos are collected from different locations with distinct backgrounds and lighting conditions, e.g., including highways, urban road intersections, and parking lots, etc.
