@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="figures/uav-veid.jpg" width="700px" />
+  <img src="figures/uav-veid.jpg" width="900px" />
 </div>
 
 
