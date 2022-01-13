@@ -1,5 +1,5 @@
 # UAV-VeID
-"Teng, S., Zhang, S., Huang, Q. et al. Viewpoint and Scale Consistency Reinforcement for UAV Vehicle Re-Identification. Int J Comput Vis (2020)." https://doi.org/10.1007/s11263-020-01402-2
+"Teng, S., Zhang, S., Huang, Q. et al. Viewpoint and Scale Consistency Reinforcement for UAV Vehicle Re-Identification. Int J Comput Vis 129, 719–735 (2021)." https://doi.org/10.1007/s11263-020-01402-2
 
 # 1.Data Collection
 We simulate real scenarios as much as possible during the UAV videos collection. 
