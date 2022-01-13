@@ -36,4 +36,4 @@ The testing set is further divided into a query set ("test_q_label.txt" 16,850 i
 Please sign the Agreement(UAV-VeID_AGREEMENT.pdf) and thereby agrees to observe the restrictions listed in this document. After filling it, please send the electrical version to us. After confirming your information, we will send the download link and password to you via Email.
 
 # 5.Contact
-Shangzhi Teng, Email: tengshangzhi@126.com
+Shangzhi Teng, Email: tengshangzhi@126.com/tengshangzhi@gmail.com
